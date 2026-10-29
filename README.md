@@ -1,2 +1,2 @@
 # MRI-Denoising
-denoising of brain MRI images using effective autoencoders
+Denoising of Brain MRI images using effective autoencoders
